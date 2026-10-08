@@ -1,0 +1,10 @@
+{
+    "model_version": "1.0.0",
+    "model_type": "Random Forest",
+    "medium_threshold": 0.45,
+    "high_threshold": 0.55,
+    "target": "30-day hospital readmission",
+    "output_name": "risk_score",
+    "clinical_use": false,
+    "disclaimer": "Educational prototype only. Not intended for clinical use."
+}

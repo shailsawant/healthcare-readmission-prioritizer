@@ -15,6 +15,9 @@ venv/
 *.joblib
 *.pkl
 
+# Publish only the selected deployment model
+!models/readmission_model.joblib
+
 # Jupyter
 .ipynb_checkpoints/
 
