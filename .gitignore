@@ -22,3 +22,6 @@ venv/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Downloaded healthcare data
+data/*.csv
